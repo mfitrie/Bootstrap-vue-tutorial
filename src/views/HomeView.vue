@@ -72,7 +72,7 @@
           <b-card-text
             >Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda
             ea magni quia hic dolores iste officiis sit. Ullam, omnis vitae,
-            necessitatibus dicta minima facere earum qui alias sequi a enim.
+            necessitatibus dicta minima facere earum qui alias sequi a enim..
           </b-card-text>
           <b-button variant="primary">Apply</b-button>
         </b-card>
